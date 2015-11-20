@@ -1,0 +1,5 @@
+C:\Shuja\DotNetSamples\wcf\WcfRestExample\WcfRestExample\bin\WcfRestExample.dll
+C:\Shuja\DotNetSamples\wcf\WcfRestExample\WcfRestExample\bin\WcfRestExample.pdb
+C:\Shuja\DotNetSamples\wcf\WcfRestExample\WcfRestExample\obj\Debug\WcfRestExample.dll
+C:\Shuja\DotNetSamples\wcf\WcfRestExample\WcfRestExample\obj\Debug\WcfRestExample.pdb
+C:\Shuja\DotNetSamples\wcf\WcfRestExample\WcfRestExample\obj\Debug\WcfRestExample.csprojResolveAssemblyReference.cache
